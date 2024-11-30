@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.bb89dfe2.css",
+    "main.js": "/myapp/static/js/main.dd9feb71.js",
+    "static/js/453.ed3810f9.chunk.js": "/myapp/static/js/453.ed3810f9.chunk.js",
+    "static/media/bachelors.jpg": "/myapp/static/media/bachelors.d4c652eb004b5f763950.jpg",
+    "static/media/masters.jpg": "/myapp/static/media/masters.2b2eb761f5a678a4f9ef.jpg",
+    "static/media/Jhanavi Dave Resume.pdf": "/myapp/static/media/Jhanavi Dave Resume.4e3abd4394927edf3ccd.pdf",
+    "static/media/meta.png": "/myapp/static/media/meta.83bdac240925c2a19ea1.png",
+    "static/media/instagram.jpg": "/myapp/static/media/instagram.accf96e8c535099ea5a7.jpg",
+    "static/media/leetcode.png": "/myapp/static/media/leetcode.27b5f46819c01aeb6947.png",
+    "index.html": "/myapp/index.html",
+    "main.bb89dfe2.css.map": "/myapp/static/css/main.bb89dfe2.css.map",
+    "main.dd9feb71.js.map": "/myapp/static/js/main.dd9feb71.js.map",
+    "453.ed3810f9.chunk.js.map": "/myapp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb89dfe2.css",
+    "static/js/main.dd9feb71.js"
+  ]
+}
